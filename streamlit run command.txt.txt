@@ -1,0 +1,5 @@
+Executing in Command prompt(Web page):
+streamlit run "C:\Users\Admin\Desktop\multiple disease prediction\app.py.py"
+
+URL:
+https://multiple-disease-web-app-zebfs8rsucy5reytnvztpd.streamlit.app/
